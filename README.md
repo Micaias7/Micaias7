@@ -23,7 +23,7 @@ const Micaias = {
     <a href="https://www.linkedin.com/in/micaias-gutierrez/">
       <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" />
     </a>
-    <a align='right' href="gutierrezmicaias@gmail.com">
+    <a align='right' href="mailto:gutierrezmicaias@gmail.com">
       <img align="center" alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="45" width="45"/>
     </a>  
 <p/>
