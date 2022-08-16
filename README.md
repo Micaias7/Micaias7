@@ -1,23 +1,9 @@
 ![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
-<h1 align="center"> Hola, Mi nombre es Tomas! 👋 :computer: </h1>
+<h1 align="center"> Hola, Mi nombre es Micaias! 👋 :computer: </h1>
 
 ```js
-const tomas0011 = {
-  Skills: {
-      BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']},
-          {Python: ['Django']}
-        ],
-      FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
-        ]
-    },
-  Proyects: [
-      {BankAppMe: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']},
-      {BackToThe90s: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
-    ],
-  FutureTecnologies: ['PHP', 'Python', 'Java', 'Go', 'Ruby'],
-  Aspirations: ['AI', 'CloudComputing', 'IOT', 'MachineLearning']
+const Micaias = {
+  Skills: [ "JavaScript", "Node.js", "Express.js", "PostgreSQL", "React", "Redux", "HTML", "CSS" ]
 }
 ```
 
@@ -30,65 +16,18 @@ const tomas0011 = {
 </div>
 
 
-<h2> Back To The 90's </h2>
-
-![btt90s](https://user-images.githubusercontent.com/58223692/95638842-7aec8a00-0a6c-11eb-9643-20296c915a47.png)
-
-<h4> Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>React</li>
-    <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
-    <li>NodeJs</li>
-    <li>Express</li>
-    <li>Sequelize</li>
-    <li>Passport</li>
-</ul>
-
-<hr/>
-
-<h2> BankAppMe </h2>
-
-![BankAppMe](https://user-images.githubusercontent.com/58223692/95639279-3661ee00-0a6e-11eb-9976-7d597696652d.png)
-
-<h4> Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>React-Native</li>
-    <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
-    <li>NodeJs</li>
-    <li>Express</li>
-    <li>Sequelize</li>
-    <li>Passport</li>
-</ul>
-Deployada en Digital Ocean en su <a href="https://bankappme.tk">dominio</a>
-
-<hr/>
 
 <h2> Me podes contactar en: </h2>
 
 <p>
-    <a href="https://www.linkedin.com/in/tomasbvasquez/">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+    <a href="https://www.linkedin.com/in/micaias-gutierrez/">
+      <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" />
     </a>
-    <a href="https://www.codewars.com/users/tomas0011">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="20" width="20" />
-    </a>
-    <a href="https://twitter.com/benjamin_gnr">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
-    </a>
-    <a href="https://github.com/tomas0011">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
-    </a>
+    <a align='right' href="mailto:gutierrezmicaias@gmail.com">
+      <img align="center" alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="45" width="45"/>
+    </a>  
 <p/>
 
-<hr/>
-
-
-<!--
-**tomas0011/tomas0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 **Micaias7/Micaias7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
