@@ -1,28 +1,8 @@
 ![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
 <h1 align="center"> Hola, Mi nombre es Micaias! 👋 </h1>
-<h2 align="center">
-Full Stack Developer :computer: from Argentina to :earth_americas:
-</h2>
+<h2 align="center"> Full Stack Developer :computer: from Argentina to :earth_americas: </h2>
 
-```js
-const Micaias = {
-  Skills: [ "JavaScript", "Node.js", "Express.js", "PostgreSQL", "React", "Redux", "HTML", "CSS" ]
-}
-```
-******
-<br/>
-<div>
-  <p>
-    Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
-    Estoy cursando la Licenciatura en informatica y haciendo algunos proyectos propios.  
-  </p>
-  <strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz: </strong>
-</div>
-<br/>
-
-******
-
-## :star: Lenguajes y herramientas:
+### :star: Lenguajes y herramientas:
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png"></code>
@@ -41,6 +21,27 @@ const Micaias = {
 </p>
 <br/>
 
+```js
+const Micaias = {
+  Skills: [ "JavaScript", "Node.js", "Express.js", "PostgreSQL", "React", "Redux", "HTML", "CSS" ]
+}
+```
+******
+
+### - :man_technologist: Acerca de mi :
+<div>
+  <p>
+   Soy una persona sociable, detallista, responsable con capacidades de rápido aprendizaje, trabajo en equipo y fácil adaptación. Estoy abierto a seguir aprendiendo en este maravilloso mundo de la programación y compartir mis conocimientos.
+Busco contribuir al logro de los objetivos estratégicos de una compañía a través de mis capacidades.
+
+La programación siempre me llamo la atención, y hace un tiempo decidí incursionar en ella. Estudie en Soy Henry 📃 (soyhenry.com), una academia de desarrollo web donde cursé la carrera de Full Stack Developer.
+Con esfuerzo y sacrificio logre mi objetivo y ahora con orgullo pertenezco a esta familia recibido como Desarrollador Full Stack.
+
+  </p>
+  <strong> Si te interesa saber más de mí, no dudes en contactarme </strong>
+</div>
+<br/>
+
 ******
 ### - 📫 Me podes contactar en: 
 
@@ -53,8 +54,6 @@ const Micaias = {
     </a>  
 <p/>
 <p><label>gutierrezmicaias@gmail.com</label></p>
-
-******
 
 <!--
 **Micaias7/Micaias7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
