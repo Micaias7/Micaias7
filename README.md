@@ -34,7 +34,7 @@ const Micaias = {
    Soy una persona sociable, detallista, responsable con capacidades de rápido aprendizaje, trabajo en equipo y fácil adaptación. Estoy abierto a seguir aprendiendo en este maravilloso mundo de la programación y compartir mis conocimientos.
 Busco contribuir al logro de los objetivos estratégicos de una compañía a través de mis capacidades.
 
-La programación siempre me llamo la atención, y hace un tiempo decidí incursionar en ella. Estudie en Soy Henry 📃 (soyhenry.com), una academia de desarrollo web donde cursé la carrera de Full Stack Developer.
+La programación siempre me llamo la atención, y decidí incursionar en ella. Estudie en Soy Henry 📃 (soyhenry.com), una academia de desarrollo web donde cursé la carrera de Full Stack Developer.
 Actualmente estoy cursando la Tecnicatura en Desarrolo Web, en la Universided de Entre Rios (UNER)  
 
   </p>
