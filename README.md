@@ -35,6 +35,7 @@ const Micaias = {
 Busco contribuir al logro de los objetivos estratégicos de una compañía a través de mis capacidades.
 
 La programación siempre me llamo la atención, y hace un tiempo decidí incursionar en ella. Estudie en Soy Henry 📃 (soyhenry.com), una academia de desarrollo web donde cursé la carrera de Full Stack Developer.
+Actualmente estoy cursando la Tecnicatura en Desarrolo Web, en la Universided de Entre Rios (UNER)  
 
   </p>
   <strong> Si te interesa saber más de mí, no dudes en contactarme </strong>
